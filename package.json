@@ -5,6 +5,7 @@
   "devDependencies": {
     "grunt": "~0.4.1",
     "sassdown": "0.0.7",
+    "load-grunt-tasks": "~0.1.0",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-sass": "~0.5.0",
     "grunt-contrib-watch": "~0.5.3",
